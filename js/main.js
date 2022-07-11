@@ -14,7 +14,7 @@ function getRandomIntInclusive(min, max) {
       if (string.length > lenght){
         return false;
         } else {
-        return true
+        return true;
           }
     }
    //https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/length
